@@ -1,0 +1,18 @@
+{
+  "name": "socket-post-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node src/app.js",
+    "dev" : "nodemon src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.1.6",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  }
+}

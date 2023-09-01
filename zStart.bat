@@ -1,0 +1,10 @@
+@echo off
+cd /
+cd C:\Users\affan\Desktop\RY-server\z-start
+start getChats.bat
+start getFeedPosts.bat
+start getUserData.bat
+start handleSupporter.bat
+start mainCon.bat
+start userPost.bat
+start letterAndNotif.bat
